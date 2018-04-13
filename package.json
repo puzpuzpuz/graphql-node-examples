@@ -11,11 +11,11 @@
     "nodemon": "^1.17.3"
   },
   "scripts": {
-    "query-scalar": "nodemon query-scalar.js",
-    "query-object": "nodemon query-object.js",
-    "mutation": "nodemon mutation.js",
-    "types": "nodemon types.js",
-    "resolvers": "nodemon resolvers.js"
+    "query-scalar": "nodemon src/query-scalar.js",
+    "query-object": "nodemon src/query-object.js",
+    "mutation": "nodemon src/mutation.js",
+    "types": "nodemon src/types.js",
+    "resolvers": "nodemon src/resolvers.js"
   },
   "author": "AP",
   "license": "MIT"

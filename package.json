@@ -15,7 +15,8 @@
     "query-object": "nodemon src/query-object.js",
     "mutation": "nodemon src/mutation.js",
     "types": "nodemon src/types.js",
-    "resolvers": "nodemon src/resolvers.js"
+    "resolvers": "nodemon src/resolvers.js",
+    "errors": "nodemon src/errors.js"
   },
   "author": "AP",
   "license": "MIT"
